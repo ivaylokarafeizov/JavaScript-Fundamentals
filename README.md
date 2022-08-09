@@ -152,8 +152,8 @@ With "Programming Fundamentals", students begin to study SoftUni's in-house prog
   <li>Analysis of complex problems and reduction to computer-executable steps
   <li>Basic HTML and CSS skills
   <li>Working with linear data structures
-</ul> 
-    
+</ul>  
+
 #### 🎓 Certificate:  
     
-## Coming soon...
+<a href="https://softuni.bg/certificates/details/139098/4cf866a2" alt="Certificate photo" ><img src="https://user-images.githubusercontent.com/106147027/183718480-3d30df21-ce1f-4643-ba13-50c95226d365.png" align="left" width="450" height="600" title="JS Fundamentals Certificate Link"></a>
